@@ -1,0 +1,11 @@
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcPractica2.Models.deps.json
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcPractica2.Models.dll
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcPractica2.Models.pdb
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcPractica2.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcPractica2.Models.AssemblyInfoInputs.cache
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcPractica2.Models.AssemblyInfo.cs
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcPractica2.Models.csproj.CoreCompileInputs.cache
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcPractica2.Models.dll
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\obj\Debug\net8.0\refint\mvcPractica2.Models.dll
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcPractica2.Models.pdb
+D:\fab\mvcPractica2\mvcProyectoWeb.Models\obj\Debug\net8.0\ref\mvcPractica2.Models.dll
